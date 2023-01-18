@@ -2,7 +2,7 @@ body {
     background-color: #171717;
     color:white;
     font-family: Arial, Helvetica, sans-serif;
-    background-image: url(../images/bak.jpg);
+    background-image: url(/images/bak.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

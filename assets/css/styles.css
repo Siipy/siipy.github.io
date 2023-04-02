@@ -6,8 +6,8 @@ body {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    overflow: hidden
+    background-attachment: scroll;
+    overflow-x;: hidden
 }
 
 h1 style="font-size:10vw;",.named {
@@ -136,3 +136,8 @@ ul {
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
 }
+html {
+    height: 100%;
+    margin: auto;
+    width: 960px;
+  }
